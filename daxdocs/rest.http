@@ -1,0 +1,14 @@
+GET /api/v1/artists
+Host: localhost:3000
+---
+POST /api/v1/artists
+Host: localhost:3000
+Content-type: application/json
+
+{
+  "name": "ciccio"
+}
+---
+DELETE /api/v1/artists/1
+Host: localhost:3000
+
