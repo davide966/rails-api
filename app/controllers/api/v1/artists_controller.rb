@@ -7,7 +7,8 @@ module Api
       # GET /artists
       def index
         @artists = Artist.all
-
+        # byebug
+        # binding.pry
         render json: @artists
       end
 
