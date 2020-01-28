@@ -14,4 +14,3 @@ Artist.create(name: 'Umberto Balsamo')
 Artist.create(name: 'Gianni Nazzaro')
 Artist.create(name: 'Nino D\'Angelo')
 Artist.create(name: 'Beppe Gambetta')
-
